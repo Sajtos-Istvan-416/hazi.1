@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 230px;
+}
+
+
+body{
+    margin: 40px;
+    font-size: 25px;
+}
+
+
+
+
+#szep{
+    margin-top: 30px;
+}
+.szin{
+    font-weight: bold;
+    color: red;
+}
